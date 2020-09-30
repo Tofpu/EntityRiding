@@ -1,0 +1,9 @@
+name: EntityRiding
+version: ${project.version}
+main: me.tofpu.entityriding.EntityRiding
+api-version: 1.16
+authors: [Tofpu]
+description: Gives you an ability to ride an entity. from players to mobs!
+commands:
+  entityriding:
+    description: a command

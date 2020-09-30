@@ -1,0 +1,10 @@
+settings:
+  disable: false # If you want to disable the plugin functionality, set it to true.
+  reverse: false # if set to true, reverses the blacklist into whitelist.
+  permission: "er.use" # If empty, everyone will be able to ride entities.
+
+mobs:
+  blacklist:
+    - "example-mob"
+  whitelist:
+    - "example-mob2"
